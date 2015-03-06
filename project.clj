@@ -1,4 +1,4 @@
-(defproject puppetlabs/bogus-jankerator "0.1.1"
+(defproject puppetlabs/bogus-jankerator "0.1.2-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
